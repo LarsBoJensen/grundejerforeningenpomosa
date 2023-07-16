@@ -5,7 +5,7 @@ hide:
 
 # Grundejerforeningen Pomosa
 
-Velkommen til hjemmesiden for Grundejerforeningen POMOSA (Odense N).
+Velkommen til hjemmesiden for Grundejerforeningen POMOSA (Odense N) - sidste rettelse er sket {% include "builddate.txt" %}.
 
 ## Historie
 
@@ -48,7 +48,7 @@ Bestyrelsen i foreningen består af fem medlemmer der vælges på den ordinære 
 
 ### Resterende bestyrelse
 - Bestyrelsesmedlem Thomas Nielsen (Pederstrupvænget 8)
-- Bestyrelsesmedlem Lars Bo Jensen
+- Bestyrelsesmedlem Lars Bo Jensen (Pomosavej 32)
 
 Ved henvendelse - se [kontakt](#kontakt)
 
@@ -76,3 +76,4 @@ Eventuelle spørgsmål bedes stillet til [formanden](#formand).
 ## Kontakt
 
 Eventuelle henvendelse bedes primært sendt til [post@grundejerforeningenpomosa.dk](mailto:post@grundejerforeningenpomosa.dk). Alternativt kan formanden kontaktes på telefon 91 53 24 29 mellem 17:00-20:00 på hverdage, men vær opmærksom på at foreningens love og deklarationer kan findes under Dokumenter i menuen.
+

@@ -71,4 +71,6 @@ plugins:
     - search:
           lang: 
             - da
+    - offline
+    - macros
   
