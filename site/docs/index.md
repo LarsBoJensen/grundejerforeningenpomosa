@@ -48,6 +48,7 @@ Bestyrelsen i foreningen består af fem medlemmer der vælges på den ordinære 
 
 ### Resterende bestyrelse
 - Bestyrelsesmedlem Thomas Nielsen (Pederstrupvænget 8)
+- Bestyrelsesmedlem Lars Bo Jensen
 
 Ved henvendelse - se [kontakt](#kontakt)
 
