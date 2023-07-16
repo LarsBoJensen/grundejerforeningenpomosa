@@ -29,7 +29,7 @@ Grundejerforeningens opgaver er at varetage fælles opgaver for området, herund
 
 Alle veje er beliggende i Odense N postnummer 5270.
 
-Den 1.januar 2010 blev Tønnesvej opklassificeret fra privat fællesvej til kommunevej. Vedligeholdelse af vejen, fortove og vejbrønde foretages fremover af Odense Kommune. De to sideveje på Tønnesvej er ikke kommuneveje. Bestyrelsen i foreningen består af fem medlemmer, der vælges på den ordinære generalforsamling for en periode på to år.
+Den 1.januar 2010 blev Tønnesvej opklassificeret fra privat fællesvej til kommunevej. Vedligeholdelse af vejen, fortove og vejbrønde foretages fremover af Odense Kommune. De to sideveje på Tønnesvej er ikke kommuneveje. 
 
 Se Grundejerforeningen POMOSA på et [stort kort](http://maps.google.dk/maps/ms?msa=0&msid=204716197603664253470.0004a629e4794647625ef&ie=UTF8&ll=55.43196,10.365987&spn=0.007305,0.012875&z=15&source=embed).
 
