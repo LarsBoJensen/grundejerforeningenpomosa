@@ -35,7 +35,7 @@ Se Grundejerforeningen POMOSA på et [stort kort](http://maps.google.dk/maps/ms?
 
 ## Bestyrelsen
 
-Bestyrelsen i foreningen består af fem medlemmer der vælges på den ordinære generalforsamling for en periode på to år. Bestyrelsen består pt. af følgende medlemmer:
+Bestyrelsen i foreningen består af fem medlemmer der vælges på den ordinære generalforsamling for en periode på to år:
 
 ### Formand
 - Formand Daniel Hermansen (Tønnesvej 17)
