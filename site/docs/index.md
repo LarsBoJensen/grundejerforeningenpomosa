@@ -73,6 +73,10 @@ De sidste fem års referater af foreningens generalforsamling
 
 Eventuelle spørgsmål bedes stillet til [formanden](#formand).
 
+### Regnskab
+
+Regnskabet for det sidste regnskabsår kan findes [her](download/Regnskab2022.pdf)
+
 ## Kontakt
 
 Eventuelle henvendelse bedes primært sendt til [post@grundejerforeningenpomosa.dk](mailto:post@grundejerforeningenpomosa.dk). Alternativt kan formanden kontaktes på telefon 91 53 24 29 mellem 17:00-20:00 på hverdage, men vær opmærksom på at foreningens love og deklarationer kan findes under Dokumenter i menuen.
