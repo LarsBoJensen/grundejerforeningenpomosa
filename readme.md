@@ -1,3 +1,0 @@
-# Grundejerforeningen
-
-Kræver mkdocs

@@ -1,0 +1,6 @@
+# Build output directory
+/site/
+
+# Build date files
+builddate.txt
+docs/builddate.txt
