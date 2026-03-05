@@ -38,17 +38,17 @@ Se Grundejerforeningen POMOSA på et [stort kort](http://maps.google.dk/maps/ms?
 Bestyrelsen i foreningen består af fem medlemmer der vælges på den ordinære generalforsamling for en periode på to år:
 
 ### Formand
-- Formand Daniel Hermansen (Tønnesvej 17)
+- Formand Daniel Hermansen
 
 ### Kasserer
-- Kasserer Michell Cronberg (Tønnesvej 20)
+- Kasserer Lars Bo Jensen
 
 ### Sekretær
-- Sekretær Claus Henriksen (Tønnesvej 9)
+- Sekretær Claus Henriksen
 
 ### Resterende bestyrelse
-- Bestyrelsesmedlem Thomas Nielsen (Pederstrupvænget 8)
-- Bestyrelsesmedlem Lars Bo Jensen (Pomosavej 32)
+- Bestyrelsesmedlem Thomas Nielsen
+- Bestyrelsesmedlem Simone
 
 Ved henvendelse - se [kontakt](#kontakt)
 
