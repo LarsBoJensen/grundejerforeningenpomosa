@@ -9,7 +9,7 @@ Velkommen til hjemmesiden for Grundejerforeningen POMOSA (Odense N) - sidste ret
 
 ## Historie
 
-Området blev udstykket i årene 1967–68 af landsretssagfører Axel Kaufmann, København og de første parcelhuse blev opført i 1969. Samtidig med udstykningen blev der på alle parceller tinglyst en deklaration, hvor der helt konkret er beskrevet i forskellige paragraffer, hvilke regler man skal overholde på sin parcel. I paragraf 6 stk. 1 er der beskrevet, at alle parcelhusejerne er forpligtet til at være medlem af grundejerforeningen. Det årlige medlemskontingent fastsættes hvert år på foreningens generalforsamling.
+Området blev udstykket i årene 1967–68 af landsretssagfører Axel Kaufmann, København, og de første parcelhuse blev opført i 1969. Samtidig med udstykningen blev der på alle parceller tinglyst en deklaration, hvor der helt konkret er beskrevet i forskellige paragraffer, hvilke regler man skal overholde på sin parcel. I paragraf 6 stk. 1 er der beskrevet, at alle parcelhusejerne er forpligtet til at være medlem af grundejerforeningen. Det årlige medlemskontingent fastsættes hvert år på foreningens generalforsamling.
 
 Foreningen blev stiftet i april 1975.
 
