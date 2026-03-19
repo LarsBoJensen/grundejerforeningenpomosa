@@ -65,7 +65,7 @@ Her findes foreningens offentlige dokumenter:
 
 De sidste fem års referater af foreningens generalforsamling
 
-- [Referat af generalforsamlingen 2025 (afholdt feb. 2026)](download/referatgeneralforsamling2026.pdf)
+- [Referat af generalforsamlingen 2025 (afholdt feb. 2026)](download/generalforsamling2026.pdf)
 - [Referat af generalforsamlingen 2024 (afholdt feb. 2025)](download/refgen_pomosa_2025.pdf)
 - [Referat af generalforsamlingen 2023 (afholdt feb. 2024)](download/refgen_pomosa_2024.pdf)
 - [Referat af generalforsamlingen 2022 (afholdt feb. 2023)](download/refgen_pomosa_2023.pdf)

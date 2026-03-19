@@ -4,3 +4,6 @@
 # Build date files
 builddate.txt
 docs/builddate.txt
+
+# OS stuff
+.DS_Store
